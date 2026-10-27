@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GUI name="FinancialDashboardFrame">
+ <GuiElement profile="fs25_menuContainer">
+  <GuiElement profile="fs25_menuHeaderPanel">
+   <Bitmap profile="fs25_menuHeaderIconBg"/>
+   <Text profile="fs25_menuHeaderTitle" text="FINANCIAL DASHBOARD"/>
+  </GuiElement>
+  <Text profile="fs25_shopBalance" id="windowTitleText" position="90px 640px" size="1250px 45px" text="BALANCE HISTORY - 30 DAYS / LIVE"/>
+  <Button profile="buttonOK" id="view7Button" position="910px 640px" size="145px 42px" text="7 DAYS" onClick="onClick7Days" />
+  <Button profile="buttonOK" id="view30Button" position="1080px 640px" size="145px 42px" text="30 DAYS" onClick="onClick30Days" />
+  <Button profile="buttonOK" id="view60Button" position="1250px 640px" size="145px 42px" text="60 DAYS" onClick="onClick60Days" />
+  <Button profile="buttonOK" id="modeBalanceButton" position="900px 690px" size="155px 42px" text="BALANCE" onClick="onClickBalance" />
+  <Button profile="buttonOK" id="modeIncomeButton" position="1070px 690px" size="155px 42px" text="INFLOWS" onClick="onClickIncome" />
+  <Button profile="buttonOK" id="modeOutflowButton" position="1240px 690px" size="155px 42px" text="OUTFLOWS" onClick="onClickOutflow" />
+  <Text profile="fs25_shopBalance" id="balanceText" position="90px 590px" size="1250px 45px" text="Reading balance..."/>
+  <Text profile="fs25_shopBalance" id="summaryText" position="90px 540px" size="1450px 45px" text="Waiting for history..."/>
+  <Text profile="fs25_shopBalance" id="expenseText" position="90px 490px" size="1450px 45px" text="Inflow/outflow totals pending..."/>
+  <Text profile="fs25_shopBalance" id="extremesText" position="90px 442px" size="1450px 35px" text="LARGEST BALANCE MOVEMENTS: waiting..." textSize="23px" />
+  <Text profile="fs25_shopBalance" id="graphText" position="90px 184px" size="1450px 35px" text="Waiting for data..." textSize="23px" />
+  <Text profile="fs25_shopBalance" position="90px 143px" size="250px 28px" text="INFLOWS"/>
+  <Text profile="fs25_shopBalance" position="90px 112px" size="250px 28px" text="OUTFLOWS"/>
+  <Text profile="fs25_shopBalance" id="axisHighText" position="90px 390px" size="230px 28px" text="MAX" textSize="21px" />
+  <Text profile="fs25_shopBalance" id="axisLowText" position="90px 255px" size="230px 28px" text="MIN" textSize="21px" />
+  <Text profile="fs25_shopBalance" id="axisStartText" position="215px 237px" size="280px 28px" text="START" textSize="21px" />
+  <Text profile="fs25_shopBalance" id="axisEndText" position="1210px 237px" size="280px 28px" text="LATEST" textSize="21px" />
+  <Text profile="fs25_shopBalance" id="statusText" position="90px 40px" size="1300px 45px" text="30-day view | session only | no save-game writes"/>
+ </GuiElement>
+</GUI>

@@ -1,0 +1,21 @@
+# Financial Dashboard 2.0 — Copyright and Permissions
+
+Copyright © 2026 Panton (Factory Development Team).
+
+All rights reserved to the extent permitted by applicable law and third-party licenses.
+
+Financial Dashboard is an independently developed mod for Farming Simulator 25.
+
+**Permissions:**
+- Players may download and use the mod free of charge.
+- Distribution through the official GIANTS Software ModHub and other platforms explicitly authorized by the copyright holder is permitted.
+- Other permissions may be granted upon request.
+
+**Restrictions:**
+- Unauthorized reuploads, redistribution, and repackaging are not permitted, except where allowed by applicable law or existing licenses.
+- Modifying and redistributing the original source code or assets requires permission from the relevant rights holder, except where otherwise permitted.
+- Removing or misrepresenting authorship and copyright notices is prohibited where applicable.
+
+This notice applies only to original material for which the stated copyright holder owns or controls the necessary rights. Third-party components remain subject to their respective licenses.
+
+Mod for Farming Simulator. Not affiliated with or endorsed by GIANTS Software.

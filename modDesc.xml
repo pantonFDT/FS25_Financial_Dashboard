@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modDesc descVersion="114">
+ <author>Panton (Factory Development Team)</author><version>2.0.0.0</version>
+ <title><en>Financial Dashboard</en></title>
+ <description><en>Financial Dashboard 2.0 adds a refined futuristic graph, subtle inflow and outflow indicators, and persistent per-savegame financial history. Track balance changes automatically from farm load, compare 7/30/60-day periods, switch between balance, estimated inflow and estimated outflow graphs, and review daily net changes and largest movements. Compatible with balance changes from other mods, subject to polling limitations. PC single-player only. Figures are estimates based on observed balance changes, not categorized accounting records.</en></description>
+ <iconFilename>images/modIcon.dds</iconFilename>
+ <multiplayer supported="false"/>
+ <extraSourceFiles><sourceFile filename="scripts/main.lua"/></extraSourceFiles>
+</modDesc>

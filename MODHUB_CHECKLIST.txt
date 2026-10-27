@@ -1,0 +1,9 @@
+FINANCIAL DASHBOARD 2.0.0.0 — RELEASE CHECKLIST
+[x] Set modDesc version and description to 2.0.0.0
+[x] Update README and CHANGELOG with changes since 1.0.0.0
+[x] Preserve main.lua and both DDS icons from tested subtle-bars build
+[x] Retain established ESC menu layout and original sidebar icon UV handling
+[x] Update displayed footer version to 2.0
+[x] Validate ZIP structure and XML syntax
+[ ] Final in-game regression test (save, quit, reload, switch all views)
+[ ] Submit updated build for platform review
